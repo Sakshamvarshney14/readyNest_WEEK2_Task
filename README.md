@@ -255,6 +255,14 @@ The project also includes an interactive Streamlit dashboard featuring:
 
 ---
 
+## Live Application
+
+The interactive Streamlit application is publicly available at:
+
+🔗 https://readynestweek2task-mxj4fcqbqkwi4qzu2ehzjl.streamlit.app/
+
+Users can explore customer insights, product recommendations, customer segmentation, and business analytics through an interactive web interface.
+
 # 📊 Key Visualizations
 
 * KPI Cards
