@@ -1,0 +1,50 @@
+
+CUSTOMER INSIGHT REPORT
+
+Total Orders:
+96478
+
+Total Customers:
+93358
+
+New Customers:
+90557
+
+Returning Customers:
+2801
+
+Total Revenue:
+$16,188,779.23
+
+Average Order Value:
+$139.89
+
+Duplicates Removed:
+0
+
+Average Delivery Time:
+12.02 Days
+
+Top Product Category:
+bed_bath_table
+
+Top State:
+SP
+
+Most Used Payment Method:
+credit_card
+
+Average Review Score:
+4.09
+
+BUSINESS RECOMMENDATIONS
+
+1. Focus on high-value customers.
+
+2. Improve customer retention.
+
+3. Increase promotions in top-performing states.
+
+4. Optimize delivery performance.
+
+5. Promote best-selling categories.
